@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tutorial url
+https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data
 
 ## Available Scripts
 
